@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Forms</title>
+    </head>
+
+    <body>
+        <h1>Forms Practice</h1>
+        <!--you really dont want to use the get method
+            you are collecting sensitive info because it will
+            all be reflected to the url-->
+        <form method="get">
+            <label for="email">Email:</label>
+            <input type="email" name="email" placeholder="Email"
+                size="30" maxlength="100" id="email"><br>
+            <label for="username">Username:</label>
+            <input type="text" name="username" placeholder="Username"
+                size="30" maxlength="100" id="username"><br>
+            <label for="password">Password:</label>
+            <input type="password" name="password" placeholder="Password"
+                size="30" maxlength="100" id="password"><br>
+            <input type="submit" value="Login">
+        </form>
+    </body>
+</html>
