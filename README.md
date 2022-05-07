@@ -1,22 +1,22 @@
 Hey, this is my personal effort to finally learn full-stack web development throughout summer 2022.
 There is a lot of ground to cover so when I say full-stack you can be sure that I fully mean it.
 Syllabus:
-    HTML
-    CSS
-    CSS with Flexbox and SASS
-    Javascript
-    jQuery
-    Twitter Bootstrap
-    ES6
-    Node.js - basics
-    Node.js - Advanced (using ES6 + ES7)
-    Git & Github (idk how this got in here lol)
-    Deployment
-    PHP
-    MySQL
-    Many Google APIs
-    jQuery Mobile for iOS and Android
-    + tons of projects for almost every unit, ill just add them below as I go:
+*    HTML
+*    CSS
+*    CSS with Flexbox and SASS
+*    Javascript
+*    jQuery
+*    Twitter Bootstrap
+*    ES6
+*    Node.js - basics
+*    Node.js - Advanced (using ES6 + ES7)
+*    Git & Github (idk how this got in here lol)
+*    Deployment
+*    PHP
+*    MySQL
+*    Many Google APIs
+*    jQuery Mobile for iOS and Android
+*    + tons of projects for almost every unit, ill just add them below as I go:
 
 Projects:
 * Maths Tutorial Website (HTML5 & CSS)
